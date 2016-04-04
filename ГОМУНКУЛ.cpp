@@ -10,7 +10,9 @@ void Print (int data[], int size, int i);
 
 int main()
     {
+	
     txCreateWindow (800, 600);
+	
 
     const int Size = 10;
     int data [Size] = {1, 3, 6, 14, 23, 43, 46, 13, 32, 10};
